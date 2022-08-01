@@ -1,20 +1,18 @@
-title: Site Title
+title: Hannah Nguyen
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal Website
 permalink: '/:title/'
 
 # Author settings
-author: Your Name # add your name
+author: Hannah Nguyen # add your name
 author-pic: yosh-ginsu.jpg
-about-author: About you
+about-author: MLIS Student
 
 # Contact links
-email: # Add your Email address
+email: hannahjoynguyen@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+linkedin: hannah-nguyen-86a1a493 # Add your Linkedin handle
 github: #Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
